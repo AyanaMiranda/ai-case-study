@@ -57,4 +57,5 @@ Steemit. (2018, October 8). Sex robots: These are the companies developing robot
 YouTube. (n.d.-a). RealDoll Company Profile on Owler. Retrieved from [https://www.owler.com/company/realdoll](https://www.owler.com/company/realdoll)
 
 YouTube. (n.d.-b). The RealDoll AI app is part of Abyss Creations' effort to integrate artificial intelligence into its products. Retrieved from [https://www.youtube.com/watch?v=AqokkXoa7uE](https://www.youtube.com/watch?v=AqokkXoa7uE)
-Note: Worked with Tutor, Brandon, who advised to complete in stack overflow.
+##
+## Note: Worked with Tutor, Brandon, who advised to complete in stack overflow.
